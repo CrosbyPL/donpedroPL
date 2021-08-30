@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @donpedroPL
-- 👀 I’m interested in Informatics
-- 🌱 I’m currently learning X
-- 💞️ I’m looking to collaborate on X
-- 📫 How to reach me: DonPedroTV#0154
+💻 A passionate Front-End Developer from Poland.
+🏫 2nd class of high school with a mat-eng profile
+📚 I’m currently learning HTML, CSS, JavaScript, SASS
+📫 How to reach me DonPedroTV#0154
+
 
 
