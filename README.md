@@ -5,7 +5,8 @@
 - 💻 A passionate Front-End Developer from Poland.
 - 🏫 2rd high school.
 - 📚 I’m currently learning <b>X</b>
-- 📫 How to reach me **donpedrokontakt@onet.eu**
+- 📫 How to reach me 
+- 
 
 ## Current projects
 - 🔭 ----
